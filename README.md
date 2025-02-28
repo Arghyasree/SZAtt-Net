@@ -29,7 +29,7 @@ Advanced machine learning (ML) and deep learning (DL) approaches have been devel
 ## Credit(s) and Acknowledgement
 
 **Supervisor:** [Dr. Pawan Kumar Singh](https://scholar.google.com/citations?user=LctgJHoAAAAJ&hl=en&oi=ao)
-**Co-Author:** [Debgandhar Ghosh](https://scholar.google.com/citations?user=snLPR60AAAAJ&hl=en)
+**Collaborator:** [Debgandhar Ghosh](https://scholar.google.com/citations?user=snLPR60AAAAJ&hl=en)
 
 ## Dataset Links
 
