@@ -32,9 +32,9 @@ Advanced machine learning (ML) and deep learning (DL) approaches have been devel
 
 ## Dataset Links
 
-- **Kaggle EEG [45] Dataset:** [https://www.kaggle.com/datasets/broach/button-tone-sz](https://www.kaggle.com/datasets/broach/button-tone-sz)
-- **LMSU EEG [54] Dataset:** [http://brain.bio.msu.ru/eeg_schizophrenia.htm](http://brain.bio.msu.ru/eeg_schizophrenia.htm)
-- **Hippocampus MRI [124] Dataset:** [https://www.kaggle.com/datasets/haithem1999/hippocampus-annotated-dataset](https://www.kaggle.com/datasets/haithem1999/hippocampus-annotated-dataset)
+- **Kaggle EEG Dataset:** [https://www.kaggle.com/datasets/broach/button-tone-sz](https://www.kaggle.com/datasets/broach/button-tone-sz)
+- **LMSU EEG Dataset:** [http://brain.bio.msu.ru/eeg_schizophrenia.htm](http://brain.bio.msu.ru/eeg_schizophrenia.htm)
+- **Hippocampus MRI Dataset:** [https://www.kaggle.com/datasets/haithem1999/hippocampus-annotated-dataset](https://www.kaggle.com/datasets/haithem1999/hippocampus-annotated-dataset)
 
 
 
